@@ -13,5 +13,5 @@
     <a href="https://wwc.lanzouq.com/ilBc702rzjfe">x64(key:gonb)</a>
 
     <p>It's okay, you can go =)</p>
-    <p>bye bye =)</p>
+    <p>bye =)</p>
 </html>
