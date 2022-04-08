@@ -1,18 +1,17 @@
 <html>
 
 <head>
-<title>2333О©╫О©╫О©╫О©╫  --О©╫О©╫О©╫О©╫5О©╫О©╫О©╫О©╫й╥</title>
+<title>2333хМ╪Ч  --рясп5дЙюЗй╥</title>
 </head>
 
 
 <body>
     <p>Welcome to 2333 music's official website</p>
-    <p>Do you want to download 2333 software? (line:)</p>
-    <p>О©╫г╥О©╫в╟2333О©╫О©╫О©╫ж╡О©╫О©╫О©╫О©╫О©╫?(Yes=)</p>
+    <p>йг╥Я╟╡в╟2333рТюж╡╔╥ефВ?(Yes=)</p>
 
-    <a href="https://wwc.lanzouq.com/i4aOw02rzg9a">x32н╩О©╫О©╫О©╫О©╫О©╫(О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫:hfu1)</a>
-    <a href="https://wwc.lanzouq.com/ilBc702rzjfe">x64н╩О©╫О©╫О©╫О©╫О©╫(О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫:gonb)</a>
+    <a href="https://wwc.lanzouq.com/i4aOw02rzg9a">x32н╩гК╣Цнр(╥цнйцэбК:hfu1)</a>
+    <a href="https://wwc.lanzouq.com/ilBc702rzjfe">x64н╩гК╣Цнр(╥цнйцэбК:gonb)</a>
 
-    <p>й╡ц╢О©╫Ц╡╩О©╫О©╫О©╫О©╫О©╫О©╫?О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫ =)</p>
-    <p>вёО©╫О©╫й╧О©╫О©╫О©╫О©╫Лё╛О©╫ы╪О©╫!</p>
+    <p>й╡ц╢дЦ╡╩оКобть?дгдЦ©иртвъак =)</p>
+    <p>вёдЦй╧сцсД©Лё╛ты╪Ш!</p>
 </html>
